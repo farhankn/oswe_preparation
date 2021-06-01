@@ -79,20 +79,20 @@ Taken from publicly-available syllabus.
    * [ ] 8.8.1 Extra Mile - Y SO SERIAL? .NET
    * [ ] 8.8.2 Extra Mile - Y SO SERIAL? Java
  * [ ] 9. ERPNext Authentication Bypass and Server Side Template Injection
-   * [ ] Videos
-   * [ ] Read/Notes
-   * [ ] 9.1.1.1 Exercise - Configure Kali SMTPd server
-   * [ ] 9.1.2.1 Exercise - Configure remote debugging
-   * [ ] 9.1.3.1 Exercise - Configure MariaDB logging
+   * [X] Videos
+   * [X] Read/Notes
+   * [X] 9.1.1.1 Exercise - Configure Kali SMTPd server
+   * [X] 9.1.2.1 Exercise - Configure remote debugging
+   * [X] 9.1.3.1 Exercise - Configure MariaDB logging
    * [ ] 9.2.3.2 Exercise - Find whitelisted functions
-   * [ ] 9.3.1.2 Exercises - SQLi
-   * [ ] 9.4.2.1 Exercises - Access the admin acct
-   * [ ] 9.5.2.1 Exercise - Find the SSTI
+   * [X] 9.3.1.2 Exercises - SQLi
+   * [X] 9.4.2.1 Exercises - Access the admin acct
+   * [X] 9.5.2.1 Exercise - Find the SSTI
    * [ ] 9.5.2.2 Extra Mile - Find another instance of SSTI
-   * [ ] 9.5.3.1 Exercise - Recreate the `__class__` rendering
+   * [X] 9.5.3.1 Exercise - Recreate the `__class__` rendering
    * [ ] 9.5.3.2 Extra Mile - Alternative filter bypass
-   * [ ] 9.6.1.1 Exercises - Recreate the filter bypass and exploit and find other classes to own
-   * [ ] 9.6.2.1 Exercises - Recreate RCE and get shell
+   * [X] 9.6.1.1 Exercises - Recreate the filter bypass and exploit and find other classes to own
+   * [X] 9.6.2.1 Exercises - Recreate RCE and get shell
    * [ ] 9.6.2.2 Extra Mile - Get output to display
  * [ ] 10. openCRX Authentication Bypass and Remote Code Execution
    * [ ] Videos
