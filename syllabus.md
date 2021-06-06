@@ -50,14 +50,14 @@ Taken from publicly-available syllabus.
    * [ ] 5.6.3 Exercise - Loose Comparison
    * [ ] 5.6.4 Extra Mile - Loose Comparison
  * [ ] 6. ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE
-   * [ ] Videos
-   * [ ] Read/Notes
-   * [ ] 6.3.6 Exercise - Vuln Discovery
-   * [ ] 6.5.1 Exercise - Blind Bats
-   * [ ] 6.6.1 Exercise - Access FS
+   * [X] Videos
+   * [X] Read/Notes
+   * [X] 6.3.6 Exercise - Vuln Discovery
+   * [X] 6.5.1 Exercise - Blind Bats
+   * [X] 6.6.1 Exercise - Access FS
    * [ ] 6.6.3 Exercise - VBS file [!! Need to do the batch! Got the reverse shell... !!]
    * [ ] 6.6.4 Extra Mile - Shell via JSP
-   * [ ] 6.7.4 Exercise - PostgreSQL Extensions
+   * [X] 6.7.4 Exercise - PostgreSQL Extensions
    * [ ] 6.8.1 Exercise - UDF Reverse Shell
    * [ ] 6.9.3 Exercise - Moar Shells
    * [ ] 6.9.4 Extra Mile - Moar Shells
@@ -95,20 +95,20 @@ Taken from publicly-available syllabus.
    * [X] 9.6.2.1 Exercises - Recreate RCE and get shell
    * [ ] 9.6.2.2 Extra Mile - Get output to display
  * [ ] 10. openCRX Authentication Bypass and Remote Code Execution
-   * [ ] Videos
-   * [ ] Read/Notes
-   * [ ] 10.2.1.1 Exercise - Recreate the Rando and SecureRando
-   * [ ] 10.2.4.1 Exercise - Generate a token list
-   * [ ] 10.2.4.2 Extra Mile - Update token program to take start/stop
-   * [ ] 10.2.5.2 Exercises - Reset password
-   * [ ] 10.2.5.3 Extra Mile - Automate the attack chain
-   * [ ] 10.3.6.2 Exercises - Recreate the XXE attack
-   * [ ] 10.3.6.3 Extra Mile - Script to parse XXE results
-   * [ ] 10.3.8.1 Exercise - Implement the "wrapper" payload
-   * [ ] 10.3.9.2 Exercise - Connect to HSQLDB
-   * [ ] 10.4.1.1 Exercises - Write file and confirm
-   * [ ] 10.4.2.1 Exercise - Find dir with JSP files
-   * [ ] 10.4.3.1 Exercises - Get. That. Shell.
+   * [X] Videos
+   * [X] Read/Notes
+   * [X] 10.2.1.1 Exercise - Recreate the Rando and SecureRando
+   * [X] 10.2.4.1 Exercise - Generate a token list
+   * [X] 10.2.4.2 Extra Mile - Update token program to take start/stop
+   * [X] 10.2.5.2 Exercises - Reset password
+   * [X] 10.2.5.3 Extra Mile - Automate the attack chain
+   * [X] 10.3.6.2 Exercises - Recreate the XXE attack
+   * [X] 10.3.6.3 Extra Mile - Script to parse XXE results
+   * [X] 10.3.8.1 Exercise - Implement the "wrapper" payload
+   * [X] 10.3.9.2 Exercise - Connect to HSQLDB
+   * [X] 10.4.1.1 Exercises - Write file and confirm
+   * [X] 10.4.2.1 Exercise - Find dir with JSP files
+   * [X] 10.4.3.1 Exercises - Get. That. Shell.
  * [ ] 11. openITCOCKPITXSSandOSCommandInjection - Blackbox
    * [ ] Videos
    * [ ] Read/Notes
