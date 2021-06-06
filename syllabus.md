@@ -20,15 +20,15 @@ Taken from publicly-available syllabus.
    * [ ] 2.2.1 Exercise - Python Requests
    * [ ] 2.3.3 Exercise - Decompilation
  * [ ] 3. Atmail Mail Server Appliance: from XSS to RCE
-   * [ ] Videos
-   * [ ] Read/Notes
-   * [ ] 3.3.1 Exercise - Vuln Discovery
-   * [ ] 3.4.1 Exercise - Session Hijack
-   * [ ] 3.5.4 Exercise - Session Riding
-   * [ ] 3.5.5 Extra Mile - Session Riding
-   * [ ] 3.6.5 Exercise - globalsaveAction Vuln Analysis
-   * [ ] 3.6.7 Exercise - Make it fully automagical
-   * [ ] 3.6.8 Extra Mile
+   * [X] Videos
+   * [X] Read/Notes
+   * [X] 3.3.1 Exercise - Vuln Discovery
+   * [X] 3.4.1 Exercise - Session Hijack
+   * [X] 3.5.4 Exercise - Session Riding
+   * [X] 3.5.5 Extra Mile - Session Riding
+   * [X] 3.6.5 Exercise - globalsaveAction Vuln Analysis
+   * [X] 3.6.7 Exercise - Make it fully automagical
+   * [X] 3.6.8 Extra Mile
    * [ ] 3.6.8 Extra Mile - Also see if you can background it completely
  * [ ] 4. ATutor Auth Bypass and RCE
    * [ ] Videos
