@@ -11,3 +11,25 @@ httpd.serve_forever()
 
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+## Upgrade to interacitve Shell
+
+``` python -c ‘import pty;pty.spawn(“/bin/bash”)’ ```
+    
+export TERM=xterm #both this will enable clear and all
+ctrl +Z (will put it in background)
+stty raw -echo ( disable raw processing like ctrl+c and disable echo)
+type fg and press enter
+press enter twice.
+
+
